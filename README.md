@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grvnameste
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning android with kotlin,flutter
-- 💞️ I’m looking to collaborate on mobile development,web development BPM optimization
+- 👀 I’m interested in Flutter, PEGA, CRM
+- 🌱 I’m currently learning Android with kotlin, flutter
+- 💞️ I’m looking to collaborate on mobile development, web development BPM optimization
 - 📫 How to reach me ...
 
 <!---
