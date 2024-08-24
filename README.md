@@ -11,7 +11,7 @@ TOGAF 9.2 framework, and code optimization techniques.
 - 🔭 I have completed my Master's in Computer Science at NUS-ISS.
 - 💞️ I’m looking to collaborate on mobile development, web development and BPM optimization
 - 📝 I write articles on my website [readnrevise.in](https://www.readnrevise.in/). 
-- 📫 How to reach me https://topmate.io/grvnameste/
+- 📫 How to reach me [Topmate](https://topmate.io/grvnameste/),[Linkedin](https://www.linkedin.com/in/primebuster/)
 
 ## My Articles
 -[Introduction to Pega](https://www.readnrevise.in/introduction-to-pega/)
